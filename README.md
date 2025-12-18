@@ -70,9 +70,6 @@ chmod 644 ~/.ssh/ansible_key.pub
 
 <img width="461" height="132" alt="image" src="https://github.com/user-attachments/assets/a2d282b9-0c41-41ca-8267-2cab293ceb5f" />
 
-# Сборка образа
-docker-compose build
-
 # Запуск контейнера в фоновом режиме и проверка
 docker-compose up -d
 ``
