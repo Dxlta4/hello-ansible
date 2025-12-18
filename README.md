@@ -64,7 +64,8 @@ chmod 644 ~/.ssh/ansible_key.pub
 ``bash
 
 ## Перейдите в директорию с docker-compose.yml
-cd /path/to/project
+
+
 <img width="629" height="106" alt="image" src="https://github.com/user-attachments/assets/6b8730a9-0998-403f-b175-5b1e9de6af9d" />
 
 <img width="461" height="132" alt="image" src="https://github.com/user-attachments/assets/a2d282b9-0c41-41ca-8267-2cab293ceb5f" />
